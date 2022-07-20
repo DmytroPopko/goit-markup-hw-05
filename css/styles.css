@@ -135,6 +135,7 @@ img {
     position: absolute;
     left: 0;
     bottom: 0;
+    bottom: -1.6px;
 
     display: block;
     width: 100%;
@@ -552,19 +553,9 @@ img {
 
 /* Футер */
 .footer {
-    padding-top: 60px;
-    padding-bottom: 60px;
 
     background-color: var(--secondary-bg-color);
 }
-
-/* .footer-address {
-    display: inline-block;
-    margin-right: 70px;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
-} */
 
 .logo-studio {
     color: var(--primary-white-color);
